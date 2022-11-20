@@ -1,3 +1,5 @@
-# Image-editor
+Image editor with plain HTML, CSS AND JAVASCRIPT 
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-8bahpe)
+DEPLOYED - 
+
+https://image-editorr.netlify.app/
